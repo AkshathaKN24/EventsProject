@@ -1,4 +1,7 @@
 public class Demo {
-  int i=20;
-  int k=50;
+
+ 
+  int j=10
+  int a=45
+  int r=90
 }
